@@ -5,9 +5,13 @@ public class FourTasks {
 
     public static void main (String [] args){
 
+        //Первое задание
         System.out.println("Сумма равна: " + sum());
+        //Второе задание
         System.out.println("Число пробразованно: " + intToString());
+        //Третье задание
         list();
+        //Четвертое задание
         System.out.println("Число в int значении: " + stringToInt());
 
     }
